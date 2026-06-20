@@ -45,11 +45,12 @@ A modern and responsive Weather Forecast application built using React and Vite.
     │   ├── App.jsx
     │   ├── main.jsx
     │   └── index.css
+
+
+
+ **⚙️ Installation**
+
 ```
-
-
-
-## ⚙️ Installation
 1. Clone the repository
 
       git clone https://github.com/your-username/weather-forecast-app.git
